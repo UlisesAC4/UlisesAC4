@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo9238
-Fork on GitHub2097
 <h1 align="center">Hi 👋, I'm Ulises Avila</h1>
 <h3 align="center">A fullstack developer from Mexico</h3>
 
