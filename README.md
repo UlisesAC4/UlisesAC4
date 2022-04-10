@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Elixir**
 
-- 👨‍💻 All of my projects are available at [ulisesavila.com/portfolio](ulisesavila.com/portfolio)
+- 👨‍💻 All of my projects are available at [ulisesavila.com/portfolio](https://ulisesavila.com/portfolio)
 
-- 📝 I regularly write articles on [ulisesavila.com/blog](ulisesavila.com/blog)
+- 📝 I regularly write articles on [ulisesavila.com/blog](https://ulisesavila.com/blog)
 
 - 💬 Ask me about **javscript**
 
