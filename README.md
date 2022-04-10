@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ulises Avila</h1>
 <h3 align="center">A fullstack developer from Mexico</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ulisesac4&label=Profile%20views&color=0e75b6&style=flat" alt="ulisesac4" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ulisesac4" alt="ulisesac4" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ulisesac4" target="blank"><img src="https://img.shields.io/twitter/follow/ulisesac4?logo=twitter&style=for-the-badge" alt="ulisesac4" /></a> </p>
-
 - 🔭 I’m currently working on [Sitimm](https://www.sitimm.org/)
 
 - 🌱 I’m currently learning **Elixir**
